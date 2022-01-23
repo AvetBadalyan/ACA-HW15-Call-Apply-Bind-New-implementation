@@ -3,11 +3,11 @@ Create fakeCall, fakeApply, fakeBind and fakeNew methods.
 
 ## Call implementation 
 
-[implementationCall.js](implementationCall.js)
+[implementationCall.js](implementationCall.js) 
 
 ## Apply implementation 
 
-[implementationApply.js](implementationApply.js)
+[implementationApply.js](implementationApply.js) 
 
 ## bind implementation 
 
@@ -15,4 +15,4 @@ Create fakeCall, fakeApply, fakeBind and fakeNew methods.
 
 ## New implementation 
 
-[implementationNew.js](implementationNew.js)
+[implementationNew.js](implementationNew.js) 
